@@ -1,10 +1,9 @@
-# Compass-Desafio3
-# Compass-Desafio-2
-Esse é um repositório com o desafio 2 da programa de bolsa natura
+# Compass-Desafio-3
+Esse é um repositório com o desafio 3 da programa de bolsa natura
 
 
 # Compass-API
-API com Express e MongoDB - Operações de CRUD e Login
+API com NEST - Operações de CRUD, Login e Query Events
 
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 
